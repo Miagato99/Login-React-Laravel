@@ -16,10 +16,9 @@
 8. In XAMPP, go to MySQL "admin".
 9. From there create a database name "reactecom".
 10. Back to the "larareactapi" command prompt folder, run "php artisan migrate".
-11. Next run "php artisan serve".
-12. Download the bootstrap for "bootstrap/dist/css/bootstrap.min.css"
-13. Download the bootstrap for "bootstrap/dist/js/bootstrap.bundle.js"
+11. Next run "php artisan serve"
 14. Open the "master" project and open the command prompt or "GitBash"
+15. Run "npm i bootstrap@5.2.1" at the command prompt.
 15. Run "npm install" at the command prompt.
 16. After that run by using "npm start" to run the project.
 
